@@ -1,0 +1,10 @@
+
+Location Finder
+
+F# (FSharp) based Windows Phone 7.5 software to answer the simple question:
+
+- Where am I?
+
+This software reads GPS coordinates from the device, 
+sends request to Google Maps service 
+and reads the location from response JSON.
